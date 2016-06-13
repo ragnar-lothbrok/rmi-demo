@@ -25,7 +25,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.remote.demo</groupId>
-			<artifactId>rmi-service</artifactId>
+			<artifactId>rmi-interface</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
